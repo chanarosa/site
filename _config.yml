@@ -8,7 +8,7 @@ markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
 url: https://chanarosa.com.br
-baseurl: "/"
+baseurl: ""
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -21,23 +21,19 @@ google_ad_client:
 post_limit: 5
 
 
-title : Cha Na Rosa
+title : ChaNarosa
 tagline: Em breve
 author : 
   name : Ana Rosa
   site: https://chanarosa.com.br
-  description : I&#39;m a web master interested in communication applied to web marketing.
-  image : social-image.png
-  email : contatochanarosa@gmail.com
-  github : chanarosa
-  twitter : chanarosa
-  facebook: chanarosa
-  linkedin: chanarosa
-  instagram: chanarosa
-  pinterest: chanarosa
-  feedburner : 
+  description : "Produtora e Agitadora Cultural
+Artesã Carnavalesca desde 1997
+Poeta Declamadora desde 2015, se apresenta nos saraus de Recife, Olinda e Jaboatão."
+  image : sobre.jpg
+  email : contatochanarosa@gmail.com  
+  instagram: "cha.de_b.u.c.e.t.a"
+  facebook: "anarosa.wanderley"
 
-twitter_username: chanarosa
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
