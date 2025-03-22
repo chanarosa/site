@@ -22,11 +22,11 @@ post_limit: 5
 
 
 title : ChaNarosa
-tagline: Em breve
+tagline: 
 author : 
-  name : Ana Rosa
-  site: https://chanarosa.com.br
-  description : "Produtora e Agitadora Cultural
+  - name : Ana Rosa
+  - site: https://chanarosa.com.br
+  - description : "Produtora e Agitadora Cultural
 Artesã Carnavalesca desde 1997
 Poeta Declamadora desde 2015, se apresenta nos saraus de Recife, Olinda e Jaboatão."
   image : sobre.jpg
