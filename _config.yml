@@ -24,15 +24,15 @@ post_limit: 5
 title : ChaNarosa
 tagline: 
 author : 
-  - name : Ana Rosa
-  - site: https://chanarosa.com.br
+  - name : "Ana Rosa"
+  - site: "https://chanarosa.com.br"
   - description : "Produtora e Agitadora Cultural
 Artesã Carnavalesca desde 1997
 Poeta Declamadora desde 2015, se apresenta nos saraus de Recife, Olinda e Jaboatão."
-  image : sobre.jpg
-  email : contatochanarosa@gmail.com  
-  instagram: "cha.de_b.u.c.e.t.a"
-  facebook: "anarosa.wanderley"
+image : sobre.jpg
+email : contatochanarosa@gmail.com  
+instagram: "cha.de_b.u.c.e.t.a"
+facebook: "anarosa.wanderley"
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
