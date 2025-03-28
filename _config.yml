@@ -1,6 +1,6 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: null
@@ -24,15 +24,15 @@ post_limit: 5
 title : ChaNarosa
 tagline: 
 author : 
-  - name : "Ana Rosa"
-  - site: "https://chanarosa.com.br"
-  - description : "Produtora e Agitadora Cultural
-Artesã Carnavalesca desde 1997
-Poeta Declamadora desde 2015, se apresenta nos saraus de Recife, Olinda e Jaboatão."
-image : sobre.jpg
-email : contatochanarosa@gmail.com  
-instagram: "cha.de_b.u.c.e.t.a"
-facebook: "anarosa.wanderley"
+   name : "Ana Rosa"
+   site: "https://chanarosa.com.br"
+   description : "Produtora e Agitadora Cultural
+      Artesã Carnavalesca desde 1997
+      Poeta Declamadora desde 2015, se apresenta nos saraus de Recife, Olinda e Jaboatão."
+   image : sobre.jpg
+   email : contatochanarosa@gmail.com
+   instagram: "cha.de_b.u.c.e.t.a"
+   facebook: "anarosa.wanderley"
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -97,9 +97,9 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
-    disqus : 
-      short_name : jeky-new-age
+    #provider : disqus
+    #disqus : 
+    #  short_name : jeky-new-age
     #livefyre :
     #  site_id : 
     #intensedebate :
