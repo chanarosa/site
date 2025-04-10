@@ -17,7 +17,7 @@ canonical: no-ano-em-que-o-carnaval-nao-veio
 ---
 {% include JB/setup %}
 
-<video controls width="100%" poster="/assets/images/slider/bg-3.jpg">
+<video controls height="600" width="100%" poster="/assets/images/slider/bg-3.jpg">
   <source src="{{ '/assets/videos/no-ano-em-que-o-carnaval-nao-veio.mp4' | relative_url }}" type="video/mp4">
   Seu navegador não suporta a reprodução de vídeos MP4.
 </video>
